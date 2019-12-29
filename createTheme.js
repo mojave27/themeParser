@@ -1,5 +1,5 @@
 var fs = require('fs')
-const adobeSourcePath = '/Users/mojave27/dev/code/themes/junk'
+const adobeSourcePath = '/Users/mojave27/dev/code/themes/source'
 const newThemePath = '/Users/mojave27/dev/code/themes/newTheme.js'
 
 const readFile = () => {

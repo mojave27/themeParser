@@ -1,0 +1,13 @@
+/* Color Theme Swatches in Hex */
+.faHome1-1-hex { color: #FFFFFF; }
+.faHome1-2-hex { color: #0D8C7F; }
+.faHome1-3-hex { color: #7CBF17; }
+.faHome1-4-hex { color: #0C7285; }
+.faHome1-5-hex { color: #09734C; }
+
+/* Color Theme Swatches in RGBA */
+.faHome1-1-rgba { color: rgba(255, 255, 255, 1); }
+.faHome1-2-rgba { color: rgba(13, 140, 127, 1); }
+.faHome1-3-rgba { color: rgba(124, 191, 23, 1); }
+.faHome1-4-rgba { color: rgba(12, 114, 133, 1); }
+.faHome1-5-rgba { color: rgba(9, 115, 76, 1); }
